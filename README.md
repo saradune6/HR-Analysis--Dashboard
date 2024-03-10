@@ -14,7 +14,3 @@ Help an organization to improve employee performance and improve employee retent
 <li>Made workforce more productive.
 <li>Gained employee trust.
 </ul>
-
-<b><h2>Contact :- </h2></b>
-Linkedln : https://www.linkedin.com/in/vikas-vachheta/ <br> 
-Email : vikasvachheta.ds@gmail.com
