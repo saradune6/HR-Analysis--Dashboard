@@ -8,7 +8,7 @@ Help an organization to improve employee performance and improve employee retent
 <b><h2>Project Description :- </h2></b> 
 
 <ul>
-<li>Identified key fectors to reduce attrition.
+<li>Identified key factors to reduce attrition.
 <li>Improved the hiring process.
 <li>Improved employee experience.
 <li>Made workforce more productive.
